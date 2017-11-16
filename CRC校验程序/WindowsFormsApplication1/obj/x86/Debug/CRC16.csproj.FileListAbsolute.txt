@@ -1,0 +1,9 @@
+G:\公共项目\CRC校验程序\WindowsFormsApplication1\bin\Debug\CRC.exe.config
+G:\公共项目\CRC校验程序\WindowsFormsApplication1\bin\Debug\CRC.exe
+G:\公共项目\CRC校验程序\WindowsFormsApplication1\bin\Debug\CRC.pdb
+G:\公共项目\CRC校验程序\WindowsFormsApplication1\obj\x86\Debug\CRC16.csprojResolveAssemblyReference.cache
+G:\公共项目\CRC校验程序\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\公共项目\CRC校验程序\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\公共项目\CRC校验程序\WindowsFormsApplication1\obj\x86\Debug\CRC16.csproj.GenerateResource.Cache
+G:\公共项目\CRC校验程序\WindowsFormsApplication1\obj\x86\Debug\CRC.exe
+G:\公共项目\CRC校验程序\WindowsFormsApplication1\obj\x86\Debug\CRC.pdb

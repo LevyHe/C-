@@ -1,0 +1,26 @@
+f:\users\levy\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+f:\users\levy\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+f:\users\levy\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+f:\users\levy\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+f:\users\levy\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+f:\users\levy\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+f:\users\levy\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\Users\Levy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\Users\Levy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\Users\Levy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Users\Levy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Users\Levy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Users\Levy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Users\Levy\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Users\Levy\Desktop\CRC校验程序\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Users\Levy\Desktop\CRC校验程序\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Users\Levy\Desktop\CRC校验程序\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Users\Levy\Desktop\CRC校验程序\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Users\Levy\Desktop\CRC校验程序\WindowsFormsApplication1\bin\Debug\CRC.exe.config
+F:\Users\Levy\Desktop\CRC校验程序\WindowsFormsApplication1\bin\Debug\CRC.exe
+F:\Users\Levy\Desktop\CRC校验程序\WindowsFormsApplication1\bin\Debug\CRC.pdb
+F:\Users\Levy\Desktop\CRC校验程序\WindowsFormsApplication1\obj\x86\Debug\CRC.exe
+F:\Users\Levy\Desktop\CRC校验程序\WindowsFormsApplication1\obj\x86\Debug\CRC.pdb
+G:\公共项目\CRC校验程序\WindowsFormsApplication1\bin\Debug\CRC.exe.config
+G:\公共项目\CRC校验程序\WindowsFormsApplication1\obj\x86\Debug\CRC.exe
+G:\公共项目\CRC校验程序\WindowsFormsApplication1\obj\x86\Debug\CRC.pdb
